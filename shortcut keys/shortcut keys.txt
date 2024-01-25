@@ -1,0 +1,48 @@
+window key + d    direct deskop 
+window key + i   computer setting
+window key + a   notification panel
+window key + t   taskbar open
+window key + b   last bottom ma java
+window key + shift + s   screen shot
+window key + printscrn   full screenshot
+window key + v   clipboard open krva (all copy text)
+window key +  1,2,3,4,5,6,7,8,9 taskbar na app open krva
+ctrl + c   copy text and image
+ctrl + v  paste 
+ctrl + f  find
+ctrl + h  replace  
+window key + .  emoji open krva
+window key + ;  emoji open krva
+mouse click and shift to copy text
+shift + home   copy text
+shift + end    copy text
+ctrl + esc     window menu open
+alt + tab      all taskmenu open
+ctrl + window key + d        new deskop open
+window + tab                all deskop open
+window key + e       file explore open krva
+ctrl + shift + n  new folder
+function key(f2)  rename krva
+window key + k     pairing device jova
+
+
+
+chrome  shortcuts
+
+ctrl + n    new window open krva
+ctrl + t    new tab open krva
+ctrl + w    close krva
+alt + f4 (function key)  close krva
+ctrl + shift + t     all tab open close thayeli
+ctrl + 1   first tab ma java
+ctrl + tab    ek ek tab ma mouse vagar java   
+ctrl + d      bookmark krva
+alt + left arrow  go back
+alt + right arrow  go forward
+
+
+
+
+
+
+

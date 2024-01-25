@@ -1,0 +1,577 @@
+.ffi {
+    font-family: 'Inter', sans-serif;
+}
+
+.ffp {
+    font-family: 'Poppins', sans-serif;
+}
+
+.fs12 {
+    font-size: 12px;
+}
+
+.fs14 {
+    font-size: 14px;
+}
+
+.fs20 {
+    font-size: 20px;
+}
+
+.fs24 {
+    font-size: 24px;
+}
+
+.fs64 {
+    font-size: 64px;
+}
+
+.fs72 {
+    font-size: 72px;
+}
+
+.fs18 {
+    font-size: 18px;
+}
+
+.fs40 {
+    font-size: 40px;
+}
+
+.fs25 {
+    font-size: 25px;
+}
+
+.fs32 {
+    font-size: 32px;
+}
+
+.cb {
+    color: #000000;
+}
+
+.cw {
+    color: #ffffff;
+}
+
+.cg {
+    color: #979a9b;
+}
+
+.cgh {
+    color: #979a9b;
+}
+
+.cgh:hover {
+    color: #000000;
+}
+
+.cgo {
+    color: #f6aa28;
+}
+
+.cog {
+    color: #6e7051;
+}
+
+.cogb {
+    color: #6e7051;
+}
+
+.cogb:hover {
+    color: #000000;
+}
+
+.cbg {
+    color: #000000;
+}
+
+.cbg:hover {
+    color: #f6aa28;
+}
+
+.t04 {
+    transition: 0.4s;
+}
+
+.bglg {
+    background: #f1f1ef;
+}
+
+.h250 {
+    height: 250px;
+}
+
+.h110 {
+    height: 110px;
+}
+
+.h80 {
+    height: 80px;
+}
+
+.h210 {
+    height: 210px;
+}
+
+.h30 {
+    height: 36px;
+}
+
+.bgi2 {
+    background-image: url(imgs/002.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.bgi16 {
+    background-image: url(imgs/016.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.bgi17 {
+    background-image: url(imgs/017.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.bgi32 {
+    background-image: url(imgs/032.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.bn {
+    border: none;
+}
+
+.b1 {
+    height: 50px;
+
+    margin-top: 20px;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    background-color: white;
+    border: none;
+    letter-spacing: 2px;
+    transition: 0.4s;
+}
+
+.b1:hover {
+    height: 50px;
+
+    margin-top: 20px;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    background-color: #262b2c;
+    border: none;
+    letter-spacing: 2px;
+    transition: 0.4s;
+}
+
+.b2 {
+    height: 50px;
+
+    margin-top: 20px;
+
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    background-color: white;
+    border: none;
+    letter-spacing: 2px;
+    transition: 0.4s;
+}
+
+.b2:hover {
+    height: 50px;
+
+    margin-top: 20px;
+
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    background-color: #262b2c;
+    border: none;
+    letter-spacing: 2px;
+    transition: 0.4s;
+}
+
+.b3 {
+    height: 50px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    letter-spacing: 2px;
+    transition: 0.4s;
+}
+
+.b3:hover {
+    height: 50px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: black;
+    background-color: #f1f1ef;
+    border: none;
+    letter-spacing: 2px;
+    transition: 0.4s;
+}
+
+.b4 {
+    height: 50px;
+    width: 180px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    letter-spacing: 2px;
+    transition: 0.4s;
+}
+
+.b4:hover {
+    height: 50px;
+    width: 180px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: black;
+    background-color: #f1f1ef;
+    border: none;
+    letter-spacing: 2px;
+    transition: 0.4s;
+}
+
+.bb1slg {
+    border-bottom: 1px solid #e4e6e7;
+}
+
+.bb2sgo {
+    border-bottom: 2px solid #f6aa28;
+}
+
+.b2dg {
+    border: 2px dashed gray;
+}
+
+.b1slg {
+    border: 1px solid #e4e6e7;
+}
+
+.ls2 {
+    letter-spacing: 2px;
+}
+
+.tdn {
+    text-decoration: none;
+}
+
+.bgw {
+    background-color: white;
+}
+
+.bfs {
+    height: 40px;
+    width: 200px;
+    background-color: #6e7051;
+    color: #f1f1ef;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    letter-spacing: 3px;
+    border: none;
+}
+
+.bfs:hover {
+    height: 40px;
+    width: 200px;
+    background-color: #262b2c;
+    color: #f1f1ef;
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    letter-spacing: 3px;
+    border: none;
+}
+
+.h50 {
+    height: 50px;
+}
+
+.w300 {
+    width: 300px;
+}
+
+.cg2 {
+    color: #666666;
+}
+
+.pd14 {
+    padding: 14px 36px 14px 14px;
+}
+
+.btn1 {
+    height: 50px;
+    width: 50px;
+    background-color: #6e705100;
+    border: 1px solid #6e7051;
+}
+
+.btn1:hover {
+    height: 50px;
+    width: 50px;
+    background-color: #6e7051;
+}
+
+.btn1 a {
+    text-decoration: none;
+    color: #6e7051;
+}
+
+.btn1:hover a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.lh2 {
+    line-height: 2;
+}
+
+.br1sg {
+    border-right: 1px solid #979a9b
+}
+
+.cnt {
+    height: 50px;
+    background-color: white;
+    border: 1px solid #d8d8d8;
+    outline: none;
+}
+
+.btsm {
+    height: 60px;
+    width: 200px;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    background-color: #6e7051;
+    border: none;
+    letter-spacing: 2px;
+}
+
+.btsm:hover {
+    height: 60px;
+    width: 200px;
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    background-color: #262b2c;
+    border: none;
+    letter-spacing: 2px;
+}
+
+.mbr {
+    background-image: url('imgs/recycled-shoe-product-image-005-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.mbr:hover {
+    background-image: url('imgs/recycled-shoe-product-image-005-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.mcb {
+    background-image: url('imgs/recycled-shoe-product-image-019-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.mcb:hover {
+    background-image: url('imgs/recycled-shoe-product-image-019-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.mcm {
+    background-image: url('imgs/recycled-shoe-product-image-020-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.mcm:hover {
+    background-image: url('imgs/recycled-shoe-product-image-020-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.mets {
+    background-image: url('imgs/recycled-shoe-product-image-017-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.mets:hover {
+    background-image: url('imgs/recycled-shoe-product-image-017-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.mgr {
+    background-image: url('imgs/recycled-shoe-product-image-007-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.mgr:hover {
+    background-image: url('imgs/recycled-shoe-product-image-007-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.mms {
+    background-image: url('imgs/recycled-shoe-product-image-018-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.mms:hover {
+    background-image: url('imgs/recycled-shoe-product-image-018-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.mnr {
+    background-image: url('imgs/recycled-shoe-product-image-008-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.mnr:hover {
+    background-image: url('imgs/recycled-shoe-product-image-008-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.mrr {
+    background-image: url('imgs/recycled-shoe-product-image-006-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.mrr:hover {
+    background-image: url('imgs/recycled-shoe-product-image-006-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.wbt {
+    background-image: url('imgs/recycled-shoe-product-image-003-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.wbt:hover {
+    background-image: url('imgs/recycled-shoe-product-image-003-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.wccr {
+    background-image: url('imgs/recycled-shoe-product-image-014-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.wccr:hover {
+    background-image: url('imgs/recycled-shoe-product-image-014-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.wchr {
+    background-image: url('imgs/recycled-shoe-product-image-013-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.wchr:hover {
+    background-image: url('imgs/recycled-shoe-product-image-013-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.wcs {
+    background-image: url('imgs/recycled-shoe-product-image-015-400x400.jpg');
+    background-position: center;
+    background-size: 100% 100%;
+    transition: 0.7s;
+}
+
+.wcs:hover {
+    background-image: url('imgs/recycled-shoe-product-image-015-400x400.jpg');
+    background-position: center;
+    background-size: 110% 110%;
+    transition: 0.7s;
+}
+
+.bqv {
+    color: white;
+    background-color: #000000b3;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    border: none;
+    transition: 0.3s;
+}
+
+.bqv:hover {
+    color: white;
+    background-color: #000000;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    border: none;
+    transition: 0.3s;
+}
+
+.gayab button {
+    opacity: 0;
+    transition: all .2s linear;
+}
+
+.gayab:hover button {
+    transition: all .2s linear;
+    opacity: 1;
+}
